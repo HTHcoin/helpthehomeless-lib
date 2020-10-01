@@ -9,7 +9,10 @@ const commonJSConfig = {
   module: {
     rules: [],
   },
-  target: 'web'
+  target: 'web',
+  node: {
+    fs: 'empty'
+  }
 };
 
 const rawConfig = Object.assign({}, commonJSConfig, {
