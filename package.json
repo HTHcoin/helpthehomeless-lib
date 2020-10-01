@@ -112,7 +112,7 @@
     "fs": "0.0.1-security",
     "inherits": "=2.0.1",
     "lodash": "^4.17.11",
-    "node-x25x": "HTHcoin/node-x25x",
+    "node-x25x": "https://github.com/HTHcoin/node-x25x",
     "sha512": "=0.0.1",
     "@types/node": "^12.12.47",
     "bitset": "^5.1.1",
